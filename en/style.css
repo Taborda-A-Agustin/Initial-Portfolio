@@ -385,7 +385,7 @@ section {
     margin-top: 3rem;
 }
 
-#info {
+.info {
     margin-top: 1rem;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.3vw;
